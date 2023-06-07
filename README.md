@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HiRu704
-- 👀 I’m interested in React Native Development
-- 🌱 I’m currently learning React-Native 
+- 👋 Hi, I’m @Hiren Mandaviya
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently a React Native Developer. 
 - mail📫 : hirenmandaviya70@gmail.com  
 
 <!---
